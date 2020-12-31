@@ -1,5 +1,6 @@
 const assert = require("assert");
+const { greet } = require("../greeter.js");
 
-describe("Just a silly test", () => {
-    it("2 + 2 = 4", () => assert.strictEqual(2 + 2, 4)); 
+describe("Testing the greeter", () => {
+    it("Checks the greet function", () => assert.strictEqual(greet("Alice"), "Hello, Alice! Today is Thursday, December 31, 2020")); 
 });
