@@ -1,0 +1,20 @@
+{
+  "name": "sinon-testing",
+  "version": "1.0.0",
+  "description": "Learning how to test in sinon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sinon"
+  ],
+  "author": "Yusaf Osei-Bonsu",
+  "license": "ISC",
+  "dependencies": {
+    "sinon": "^9.2.2"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
