@@ -9,4 +9,3 @@ This is a mini-project where I learn to test a function (i.e. `greeter`) using S
 - Mocha
 - Sinon
 - JavaScript
-
